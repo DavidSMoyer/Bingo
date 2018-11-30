@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Runs\ every\ time\ "run"\ or\ "act"\ is\ called.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment3.params=
+comment3.target=void\ checkWin()
+comment3.text=\r\n\ Checks\ to\ see\ if\ the\ user\ has\ won,\ by\ checking\ all\ possible\ ways\ the\ player\ could\ have\ gotten\ 5\ in\ a\ row.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment4.params=
+comment4.target=void\ win()
+comment4.text=\r\n\ Runs\ when\ the\ player\ won,\ displaying\ "BINGO\!"\ while\ stopping\ the\ player\ from\ being\ able\ to\ call\ anything\ else.\ Also\ can\r\n\ show\ you\ if\ somebody\ cheated\ in\ multiplayer\ as\ long\ as\ somebody\ was\ keeping\ track\ of\ what\ was\ called.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment5.params=mode
+comment5.target=void\ initialize(java.lang.String)
+comment5.text=\r\n\ Initializes\ the\ game\ as\ singleplayer\ or\ multiplayer,\ making\ the\ player\ able\ to\ click\ before\ or\ only\ able\ to\ click\ after\ the\r\n\ number\ has\ been\ called.\r\n\ \r\n\ @param\ mode\ The\ mode\ to\ be\ set,\ either\ "single"\ or\ "multi."\r\n\ @return\ Returns\ nothing.\r\n
+comment6.params=
+comment6.target=void\ call()
+comment6.text=\r\n\ Chooses\ a\ random\ number\ that\ hasn't\ been\ selected\ yet,\ and\ displays\ it,\ as\ well\ as\ making\ that\ number\ clickable.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment7.params=
+comment7.target=void\ update()
+comment7.text=\r\n\ Checks\ which\ number\ have\ been\ clicked\ to\ keep\ track\ for\ the\ win\ detection.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+numComments=8

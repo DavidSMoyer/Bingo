@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Call
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Call\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Call()
+comment1.text=\r\n\ The\ constructor\ for\ the\ class.\r\n
+comment2.params=l\ n
+comment2.target=void\ setCall(char,\ int)
+comment2.text=\r\n\ Displays\ the\ last\ called\ number.\r\n\ \r\n\ @param\ l\ The\ letter\ called.\r\n\ @param\ n\ The\ number\ called.\r\n\ @return\ Returns\ nothing.\r\n
+comment3.params=
+comment3.target=void\ update()
+comment3.text=\r\n\ U\r\n
+numComments=4

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Numbers
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Numbers\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=l\ i\ c
+comment1.target=Numbers(char,\ int,\ boolean)
+comment1.text=\r\n\ The\ constructor\ of\ the\ class.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Numbers\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkClick()
+comment3.text=\r\n\ Checks\ to\ see\ if\ the\ number\ has\ been\ called\ and\ clicked.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment4.params=
+comment4.target=boolean\ takenStatus()
+comment4.text=\r\n\ Checks\ to\ see\ if\ it\ has\ been\ clicked\ or\ not.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ if\ the\ object\ has\ been\ clicked\ or\ not.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getCall()
+comment5.text=\r\n\ Checks\ the\ current\ value\ for\ other\ objects.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ the\ current\ letter\ and\ number\ call\ as\ String.\r\n
+comment6.params=c
+comment6.target=void\ setClickable(boolean)
+comment6.text=\r\n\ Sets\ the\ object\ as\ clickable\ or\ not.\r\n\ \r\n\ @param\ c\ A\ true\ or\ false\ value\ as\ clickability.\r\n\ \r\n
+numComments=7
